@@ -19,5 +19,5 @@ from an artistic perspective.
 
 
 ## Something I want to metion
-We think the data visualization is a science of displaying information and an art form that can be called data art. For centuries, many mathematicians have seen beauty and symmetry in mathematical equations. The mathematics can be beautiful, and the diagrams that accompany the results can be beautiful. This is where information design comes in.
+I think the data visualization is a science of displaying information and an art form that can be called data art. For centuries, many mathematicians have seen beauty and symmetry in mathematical equations. The mathematics can be beautiful, and the diagrams that accompany the results can be beautiful. This is where information design comes in.
 ![](https://github.com/ruilinqi/AmericanImmigration/Test/ScreenShot.png)  
